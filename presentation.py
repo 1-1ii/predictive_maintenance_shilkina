@@ -41,8 +41,8 @@ def presentation_page():
     ---
 
     ## Результаты
-    - Accuracy: 0.95
-    - ROC-AUC: 0.97
+    - Accuracy: 0.98
+    - ROC-AUC: 0.96
 
     ---
 
