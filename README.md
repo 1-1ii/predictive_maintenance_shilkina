@@ -13,8 +13,8 @@
 ## Техническая реализация
 **Модель:** Random Forest Classifier  
 **Метрики:**
-- Accuracy: 0.95
-- ROC-AUC: 0.97
+- Accuracy: 0.98
+- ROC-AUC: 0.96
 - Confusion Matrix
 - Classification Report
 
