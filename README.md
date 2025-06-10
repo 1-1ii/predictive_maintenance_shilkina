@@ -42,5 +42,4 @@ streamlit run app.py
 ```
 
 ## Видео демонстрация
-[Видео работы приложения](video/demo.mp4)
-<video src="video/demo.mp4" controls width="100%" poster="img/preview.jpg"></video>
+https://disk.yandex.ru/d/cePwQQqp8nujWg
